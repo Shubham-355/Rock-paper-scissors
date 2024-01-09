@@ -9,3 +9,7 @@
 ## Tech Stack
 
 HTML-CSS-JavaScript
+
+## Play game
+
+https://shubham-355.github.io/Rock-paper-scissors/
